@@ -1,0 +1,34 @@
+Ciruit Breaker
+
+saga pattern
+
+docker containization
+
+Spring Boot -- Email Send
+
+Spring Boot - File Upload   
+
+Spring Boot -- Capcha
+
+Spring Boot --  @Scheduled    @EnableScheduling    @Component  @Scheduled(cron = "0 * 19 * * ?")  fixedRate=2000   fixedDelay=3000 initalDelay=5000
+
+Spring Boot -- @Tansactional
+
+@EnableTransactionManagement
+@Transactional
+
+
+Paginations
+
+
+https://www.geeksforgeeks.org/spring-boot-scheduling/?ref=lbp
+
+-----------------------
+Spring Boot :  How to Establish Communication between Spring Microservices
+
+Synchronus  Way  ---   RestTemplate
+-------------------------
+Asynchronus   Way 
+
+----------------------------
+How to secure Actuator End Point
